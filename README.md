@@ -28,3 +28,9 @@ This projects is as accurate as the data gathered. Sometimes, the country
 attached to an IP range is the one the registering company is located in. There
 is no reliable way to determine the physical location of any IP without tracing
 it separately.
+
+## Further Resources
+
+You may also be interested in my IPBL and other blocklists:
+
+<https://ipbl.herrbischoff.com>
