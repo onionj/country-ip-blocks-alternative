@@ -16,7 +16,7 @@ If you have infrastructure you'd like to use it for, download ONE COPY AS A GIT
 REPOSITORY ONCE PER DAY and distribute it from your own infrastructure. It's
 sad that I have to explicitly point this out but there have been instances of
 operators of commercial infrastucture abusing this free resource. Repeated
-excessive requests WILL get your IPs permabanned.
+excessive requests WILL get your IPs permanently blocked.
 
 ## Note on Geolocation Precision
 
